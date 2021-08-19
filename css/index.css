@@ -43,6 +43,14 @@ li{
     padding-right: 10px;
 }
 
+/* .menu > ul > li:hover*/ 
+.whenHoveredNav a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    color: rgb(255, 154, 153);
+    text-decoration: none;
+} 
 
 a{
     font-family: 'Montserrat', sans-serif;
@@ -51,6 +59,7 @@ a{
     color: white;
     text-decoration: none;
 }
+
 
 /* hero css */
 
