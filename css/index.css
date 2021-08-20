@@ -232,6 +232,11 @@ h9{
     width: 80%;
     display: none;
 }
+
+#desktop{
+    width: 130%;
+    display: none;
+}
 .nccInfo{
     grid-area: nccInfo;
     border: 20px solid rgb(106, 106, 106);
@@ -659,6 +664,10 @@ textarea{
         display: flex;
     }
 
+    #desktop{
+        width: 130%;
+        display: flex;
+    }
     .nccInfo{
         grid-area: nccInfo;
         border: 20px solid rgb(106, 106, 106);
